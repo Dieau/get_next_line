@@ -34,6 +34,7 @@ the end of file and there is no ’\n’.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 Bonus part
+  
 The project get_next_line is straightforward and leaves very little room for bonuses, but we are sure that you have a lot of imagination. If you have aced the mandatory part, then by all means, complete this bonus part to go further. Just to be clear, no bonuses will be taken into consideration if the mandatory part isn’t perfect.
   
 Turn-in all 3 mandatory files ending by _bonus.[c\h] for this part.
